@@ -9,7 +9,7 @@ import com.chenshuyusc.experiment1.Module.*;
 import java.util.Scanner;
 
 /**
- * 根据输入字符创建对应的组件
+ * 根据输入字符 kind 创建对应的组件
  */
 public abstract class Factory {
     public final Module create(String kind) {

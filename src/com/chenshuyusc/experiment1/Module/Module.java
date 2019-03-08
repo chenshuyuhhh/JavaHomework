@@ -1,11 +1,11 @@
 package com.chenshuyusc.experiment1.Module;
 
 /**
- * 所有组件的抽象方法，含有组件共有的基本信息：brand、name、price
+ * 所有组件的抽象父类，含有组件共有的基本信息：brand、name、price
  */
 public abstract class Module implements IModuleWork {
 
-    private String brand;
+    private String brand;// 存品牌
     private String name = "no name";
     private int price = 888;
 

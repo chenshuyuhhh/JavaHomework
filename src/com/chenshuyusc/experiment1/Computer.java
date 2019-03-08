@@ -50,6 +50,7 @@ public class Computer {
     public void setCpu(CPU cpu) {
         this.cpu = cpu;
         modules.set(0, cpu);
+        computePrice();
     }
 
     public void getMemory() {
@@ -59,6 +60,7 @@ public class Computer {
     public void setMemory(Memory memory) {
         this.memory = memory;
         modules.set(1, memory);
+        computePrice();
     }
 
     public void getHardDisk() {
@@ -68,6 +70,7 @@ public class Computer {
     public void setHardDisk(HardDisk hardDisk) {
         this.hardDisk = hardDisk;
         modules.set(2, hardDisk);
+        computePrice();
     }
 
     public void getMainBoard() {
@@ -77,6 +80,7 @@ public class Computer {
     public void setMainBoard(MainBoard mainBoard) {
         this.mainBoard = mainBoard;
         modules.set(3, mainBoard);
+        computePrice();
     }
 
     private void computePrice() {

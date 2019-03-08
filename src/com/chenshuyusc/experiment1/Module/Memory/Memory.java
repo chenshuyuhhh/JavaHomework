@@ -2,6 +2,10 @@ package com.chenshuyusc.experiment1.Module.Memory;
 
 import com.chenshuyusc.experiment1.Module.Module;
 
+/**
+ * 每个 memory 品牌组件的父类 Memory
+ * Memory 继承所有组件的父类Module
+ */
 public class Memory extends Module {
     private int volume = 16;
 
