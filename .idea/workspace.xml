@@ -2,48 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="747b3f3e-aa24-4007-803f-bb89baf2d4ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/了不起的盖茨比(英文版).txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/了不起的盖茨比（GB2312）.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/了不起的盖茨比（UTF-8）.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Homework/com/chenshuyusc/experiment1/Computer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Homework/com/chenshuyusc/experiment1/ComputerStore.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Homework/com/chenshuyusc/experiment1/Module/CPU/AMDCPU.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Homework/com/chenshuyusc/experiment1/Module/CPU/CPU.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Homework/com/chenshuyusc/experiment1/Module/CPU/IntelCPU.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Homework/com/chenshuyusc/experiment1/Module/HardDisk/HardDisk.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Homework/com/chenshuyusc/experiment1/Module/HardDisk/SeagateHardDisk.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Homework/com/chenshuyusc/experiment1/Module/HardDisk/WestDigitalsHardDisk.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Homework/com/chenshuyusc/experiment1/Module/IModuleWork.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Homework/com/chenshuyusc/experiment1/Module/MainBoard/AsusMainBoard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Homework/com/chenshuyusc/experiment1/Module/MainBoard/GigabyteMainBoard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Homework/com/chenshuyusc/experiment1/Module/MainBoard/MainBoard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Homework/com/chenshuyusc/experiment1/Module/Memory/KingstonMemory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Homework/com/chenshuyusc/experiment1/Module/Memory/Memory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Homework/com/chenshuyusc/experiment1/Module/Memory/SamsungMemory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Homework/com/chenshuyusc/experiment1/Module/Module.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Homework/com/chenshuyusc/experiment1/ModuleFactory/Factory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Homework/com/chenshuyusc/experiment1/ModuleFactory/ModuleFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Homework/com/chenshuyusc/experiment1/Test1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Homework/com/chenshuyusc/experiment1/Test2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Homework/hw3/FileRead.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Homework/hw3/FileReadorWrite.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Homework/hw3/FileWrite.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Homework/hw3/IReading.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Homework/hw3/IWriting.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Homework/hw3/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Homework/hw3/SortByValueMap$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Homework/hw3/SortByValueMap$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Homework/hw3/SortByValueMap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/英文版统计结果.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chenshuyusc/hw3/FileRead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chenshuyusc/hw3/FileReadorWrite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chenshuyusc/hw3/FileWrite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chenshuyusc/hw3/IReading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chenshuyusc/hw3/IWriting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chenshuyusc/hw3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chenshuyusc/hw3/SortByValueMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chenshuyusc/Exercise3/IPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chenshuyusc/Exercise3/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chenshuyusc/Exercise3/Reflect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chenshuyusc/Exercise3/Teacher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework/hw1of2/SingleClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework/hw1of2/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework/hw3/FileRead.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework/hw3/FileReadorWrite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework/hw3/FileWrite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework/hw3/IReading.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework/hw3/IWriting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework/hw3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework/hw3/SortByValueMap$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework/hw3/SortByValueMap$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework/hw3/SortByValueMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw1of2/SingleClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chenshuyusc/hw1/SingleClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw1of2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chenshuyusc/hw1/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -102,97 +78,80 @@
     <session id="-1529618822">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="7" />
+          <entry key="java" value="22" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="7" />
+          <entry key="JAVA" value="22" />
           <entry key="PLAIN_TEXT" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="1" />
+          <entry key="java" value="2484" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2484" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/chenshuyusc/experiment1/Test2.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/chenshuyusc/Exercise3/Reflect.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+            <state relative-caret-position="325">
+              <caret line="62" column="45" selection-start-line="62" selection-start-column="45" selection-end-line="62" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#3787#3788#0" expanded="true" />
+                <element signature="e#3860#3861#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/chenshuyusc/hw3/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/com/chenshuyusc/Exercise3/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="38" column="48" selection-start-line="38" selection-start-column="48" selection-end-line="38" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/output/英文版统计结果.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+            <state relative-caret-position="276">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/了不起的盖茨比(英文版).txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/chenshuyusc/hw3/FileWrite.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/chenshuyusc/hw3/IWriting.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/chenshuyusc/hw3/FileRead.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/chenshuyusc/hw3/IReading.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/chenshuyusc/hw3/FileReadorWrite.java">
+        <entry file="file://$PROJECT_DIR$/src/com/chenshuyusc/Exercise3/Teacher.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="207">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/chenshuyusc/hw3/SortByValueMap.java">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/com/chenshuyusc/Exercise3/IPerson.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -211,10 +170,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Experiment1/IModuleWork.java" />
-        <option value="$PROJECT_DIR$/src/Experiment1/Module.java" />
-        <option value="$PROJECT_DIR$/src/Experiment1/Module/IModuleWork.java" />
-        <option value="$PROJECT_DIR$/src/Experiment1/Module/Module.java" />
         <option value="$PROJECT_DIR$/src/Experiment1/Module/HardDisk.java" />
         <option value="$PROJECT_DIR$/src/Experiment1/Module/CPU.java" />
         <option value="$PROJECT_DIR$/src/Experiment1/Module/MainBoard.java" />
@@ -262,6 +217,10 @@
         <option value="$PROJECT_DIR$/src/com/chenshuyusc/experiment1/ModuleFactory/ModuleFactory.java" />
         <option value="$PROJECT_DIR$/src/hw3/SortByValueMap.java" />
         <option value="$PROJECT_DIR$/src/hw3/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/chenshuyusc/Exercise3/IPerson.java" />
+        <option value="$PROJECT_DIR$/src/com/chenshuyusc/Exercise3/Person.java" />
+        <option value="$PROJECT_DIR$/src/com/chenshuyusc/Exercise3/Teacher.java" />
+        <option value="$PROJECT_DIR$/src/com/chenshuyusc/Exercise3/Reflect.java" />
       </list>
     </option>
   </component>
@@ -272,14 +231,16 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="801" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -313,33 +274,34 @@
               <item name="JavaHomework" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaHomework" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="hw1of2" type="462c0819:PsiDirectoryNode" />
+              <item name="chenshuyusc" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553428860864" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553822966006" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/src" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/com/chenshuyusc/experiment1" />
       <recent name="$PROJECT_DIR$/uml" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/chenshuyusc/Exercise3" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -354,7 +316,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Reflect">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hw3.Main" />
       <module name="Homework" />
@@ -368,12 +330,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Experiment1.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chenshuyusc.hw3.Main" />
       <module name="Homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Experiment1.*" />
+          <option name="PATTERN" value="com.chenshuyusc.hw3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -381,12 +343,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw1of2.Test" />
+    <configuration name="Reflect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chenshuyusc.hwExercise3.Reflect" />
       <module name="Homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw1of2.*" />
+          <option name="PATTERN" value="com.chenshuyusc.hwExercise3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -421,19 +383,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Test1" />
       <item itemvalue="Application.Test2" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Reflect" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Reflect" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Test2" />
         <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -456,6 +418,11 @@
       <workItem from="1551967541601" duration="8769000" />
       <workItem from="1552021358004" duration="2022000" />
       <workItem from="1553428448603" duration="398000" />
+      <workItem from="1553429284918" duration="22000" />
+      <workItem from="1553582517765" duration="1781000" />
+      <workItem from="1553750940145" duration="2193000" />
+      <workItem from="1553770260383" duration="3000" />
+      <workItem from="1553776522768" duration="6517000" />
     </task>
     <task id="LOCAL-00001" summary="finish exmperiment1 of JAVA">
       <created>1552005201900</created>
@@ -468,13 +435,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32970000" />
+    <option name="totallyTimeSpent" value="43486000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2274678" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24248926" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -483,14 +450,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.019277109" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.22409639" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.426506" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -516,231 +483,6 @@
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="2939" column="35" lean-forward="true" selection-start-line="2939" selection-start-column="35" selection-end-line="2939" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chenshuyusc/experiment1/Module/MainBoard/AsusMainBoard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chenshuyusc/experiment1/Module/CPU/CPU.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="27" column="161" selection-start-line="27" selection-start-column="161" selection-end-line="27" selection-end-column="161" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chenshuyusc/experiment1/Module/HardDisk/HardDisk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="27" column="194" selection-start-line="27" selection-start-column="194" selection-end-line="27" selection-end-column="194" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.chenshuyusc.experiment1">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.chenshuyusc.experiment1</OriginalElement>
-          <nodes>
-            <node x="209.74621212121207" y="0.0">com.chenshuyusc.experiment1.Module</node>
-            <node x="0.0" y="721.5">com.chenshuyusc.experiment1.ModuleFactory</node>
-            <node x="209.99999999999997" y="644.0">com.chenshuyusc.experiment1.ComputerStore</node>
-            <node x="99.36931818181819" y="878.0">com.chenshuyusc.experiment1.Test1</node>
-            <node x="415.30303030303025" y="878.0">com.chenshuyusc.experiment1.Test2</node>
-            <node x="167.86931818181816" y="79.0">com.chenshuyusc.experiment1.Computer</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.chenshuyusc.experiment1.Test1" target="com.chenshuyusc.experiment1.Computer">
-              <point x="15.333333333333314" y="-25.5" />
-              <point x="206.7026515151515" y="853.0" />
-              <point x="199.49999999999997" y="853.0" />
-              <point x="199.49999999999997" y="624.0" />
-              <point x="270.3693181818182" y="624.0" />
-              <point x="-102.49999999999999" y="257.5" />
-            </edge>
-            <edge source="com.chenshuyusc.experiment1.Computer" target="com.chenshuyusc.experiment1.Module">
-              <point x="-102.5" y="-257.5" />
-              <point x="270.36931818181813" y="54.0" />
-              <point x="275.74621212121207" y="54.0" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="com.chenshuyusc.experiment1.Test2" target="com.chenshuyusc.experiment1.Computer">
-              <point x="69.0" y="-25.5" />
-              <point x="576.3030303030303" y="853.0" />
-              <point x="562.5" y="853.0" />
-              <point x="562.5" y="614.0" />
-              <point x="543.7026515151515" y="614.0" />
-              <point x="170.83333333333331" y="257.5" />
-            </edge>
-            <edge source="com.chenshuyusc.experiment1.ComputerStore" target="com.chenshuyusc.experiment1.Computer">
-              <point x="-82.75000000000003" y="-92.0" />
-              <point x="292.74999999999994" y="624.0" />
-              <point x="338.7026515151515" y="624.0" />
-              <point x="-34.16666666666666" y="257.5" />
-            </edge>
-            <edge source="com.chenshuyusc.experiment1.ModuleFactory" target="com.chenshuyusc.experiment1.Module">
-              <point x="0.0" y="-14.5" />
-              <point x="88.99999999999997" y="54.0" />
-              <point x="231.74621212121207" y="54.0" />
-              <point x="-44.0" y="14.5" />
-            </edge>
-            <edge source="com.chenshuyusc.experiment1.Test1" target="com.chenshuyusc.experiment1.ComputerStore">
-              <point x="46.0" y="-25.5" />
-              <point x="237.3693181818182" y="853.0" />
-              <point x="251.37499999999997" y="853.0" />
-              <point x="-124.125" y="92.0" />
-            </edge>
-            <edge source="com.chenshuyusc.experiment1.Test1" target="com.chenshuyusc.experiment1.ModuleFactory">
-              <point x="-46.0" y="-25.5" />
-              <point x="145.3693181818182" y="853.0" />
-              <point x="133.5" y="853.0" />
-              <point x="44.5" y="14.5" />
-            </edge>
-            <edge source="com.chenshuyusc.experiment1.Test2" target="com.chenshuyusc.experiment1.ComputerStore">
-              <point x="-69.0" y="-25.5" />
-              <point x="438.30303030303025" y="853.0" />
-              <point x="416.87499999999994" y="853.0" />
-              <point x="41.37499999999997" y="92.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="69.0" y="220.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Inner Classes</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.chenshuyusc.experiment1.Module">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.chenshuyusc.experiment1.Module</OriginalElement>
-          <nodes>
-            <node x="20.0" y="488.0">com.chenshuyusc.experiment1.Module.Memory</node>
-            <node x="259.75000000000006" y="101.0">com.chenshuyusc.experiment1.Module.Module</node>
-            <node x="572.0" y="488.0">com.chenshuyusc.experiment1.Module.CPU</node>
-            <node x="291.25000000000006" y="0.0">com.chenshuyusc.experiment1.Module.IModuleWork</node>
-            <node x="196.00000000000006" y="488.0">com.chenshuyusc.experiment1.Module.HardDisk</node>
-            <node x="379.00000000000006" y="488.0">com.chenshuyusc.experiment1.Module.MainBoard</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.chenshuyusc.experiment1.Module.Module" target="com.chenshuyusc.experiment1.Module.IModuleWork">
-              <point x="0.0" y="-158.5" />
-              <point x="0.0" y="25.5" />
-            </edge>
-            <edge source="com.chenshuyusc.experiment1.Module.HardDisk" target="com.chenshuyusc.experiment1.Module.HardDisk">
-              <point x="0.0" y="14.5" />
-              <point x="267.50000000000006" y="537.0" />
-              <point x="176.00000000000006" y="537.0" />
-              <point x="176.00000000000006" y="502.5" />
-              <point x="-71.5" y="-0.0" />
-            </edge>
-            <edge source="com.chenshuyusc.experiment1.Module.MainBoard" target="com.chenshuyusc.experiment1.Module.Module">
-              <point x="-38.25" y="-14.5" />
-              <point x="417.25000000000006" y="468.0" />
-              <point x="372.81250000000006" y="468.0" />
-              <point x="12.5625" y="158.5" />
-            </edge>
-            <edge source="com.chenshuyusc.experiment1.Module.CPU" target="com.chenshuyusc.experiment1.Module.CPU">
-              <point x="0.0" y="14.5" />
-              <point x="629.0" y="537.0" />
-              <point x="552.0" y="537.0" />
-              <point x="552.0" y="502.5" />
-              <point x="-57.0" y="-0.0" />
-            </edge>
-            <edge source="com.chenshuyusc.experiment1.Module.CPU" target="com.chenshuyusc.experiment1.Module.Module">
-              <point x="28.5" y="-14.5" />
-              <point x="657.5" y="438.0" />
-              <point x="448.18750000000006" y="438.0" />
-              <point x="87.9375" y="158.5" />
-            </edge>
-            <edge source="com.chenshuyusc.experiment1.Module.HardDisk" target="com.chenshuyusc.experiment1.Module.Module">
-              <point x="35.75" y="-14.5" />
-              <point x="303.25000000000006" y="468.0" />
-              <point x="347.68750000000006" y="468.0" />
-              <point x="-12.5625" y="158.5" />
-            </edge>
-            <edge source="com.chenshuyusc.experiment1.Module.Memory" target="com.chenshuyusc.experiment1.Module.Module">
-              <point x="34.0" y="-14.5" />
-              <point x="122.0" y="448.0" />
-              <point x="297.43750000000006" y="448.0" />
-              <point x="-62.8125" y="158.5" />
-            </edge>
-            <edge source="com.chenshuyusc.experiment1.Module.Memory" target="com.chenshuyusc.experiment1.Module.Memory">
-              <point x="0.0" y="14.5" />
-              <point x="88.0" y="537.0" />
-              <point x="0.0" y="537.0" />
-              <point x="0.0" y="502.5" />
-              <point x="-68.0" y="-0.0" />
-            </edge>
-            <edge source="com.chenshuyusc.experiment1.Module.MainBoard" target="com.chenshuyusc.experiment1.Module.MainBoard">
-              <point x="0.0" y="14.5" />
-              <point x="455.50000000000006" y="537.0" />
-              <point x="359.00000000000006" y="537.0" />
-              <point x="359.00000000000006" y="502.5" />
-              <point x="-76.5" y="-0.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-21.0" y="119.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Inner Classes</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.chenshuyusc.experiment1.ModuleFactory">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.chenshuyusc.experiment1.ModuleFactory</OriginalElement>
-          <nodes>
-            <node x="0.0" y="0.0">com.chenshuyusc.experiment1.ModuleFactory.Factory</node>
-            <node x="0.0" y="189.0">com.chenshuyusc.experiment1.ModuleFactory.ModuleFactory</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.chenshuyusc.experiment1.ModuleFactory.ModuleFactory" target="com.chenshuyusc.experiment1.ModuleFactory.Factory">
-              <point x="0.0" y="-58.5" />
-              <point x="0.0" y="69.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-198.0" y="23.0" />
-          <SelectedNodes>
-            <node>com.chenshuyusc.experiment1.ModuleFactory.ModuleFactory</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Inner Classes</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
     <entry file="uml://JAVA/com.chenshuyusc.experiment1.Module.CPU">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -880,7 +622,7 @@
     <entry file="file://$PROJECT_DIR$/Package HardDisk.png" />
     <entry file="file://$PROJECT_DIR$/Package Module.png" />
     <entry file="file://$PROJECT_DIR$/UMLofExperiment1/ModuleFactory.uml" />
-    <entry file="file://$PROJECT_DIR$/src/hw1of2/SingleClass.java">
+    <entry file="file://$PROJECT_DIR$/src/com/chenshuyusc/hw1/SingleClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
           <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
@@ -935,12 +677,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1403">
           <caret line="82" column="10" selection-start-line="82" selection-start-column="10" selection-end-line="82" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#computePrice#0;class#Computer#0" />
-            <element signature="method#describe#0;class#Computer#0" />
-            <element signature="method#work#0;class#Computer#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -955,9 +691,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -965,9 +698,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2346">
           <caret line="111" column="26" selection-start-line="111" selection-start-column="26" selection-end-line="111" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -989,9 +719,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1013,9 +740,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1028,24 +752,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chenshuyusc/experiment1/Test2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
+        <state relative-caret-position="322">
           <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chenshuyusc/hw3/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="38" column="48" selection-start-line="38" selection-start-column="48" selection-end-line="38" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/了不起的盖茨比(英文版).txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chenshuyusc/hw3/FileWrite.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/output/英文版统计结果.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/reflect/Proxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4370">
+          <caret line="227" column="13" selection-start-line="227" selection-start-column="13" selection-end-line="227" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chenshuyusc/hw3/IWriting.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chenshuyusc/hw3/IReading.java">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/com/chenshuyusc/hw3/FileReadorWrite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chenshuyusc/hw3/SortByValueMap.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chenshuyusc/hw3/IReading.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chenshuyusc/hw3/FileRead.java">
@@ -1055,27 +807,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chenshuyusc/hw3/FileReadorWrite.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-304">
+          <caret line="843" column="22" selection-start-line="843" selection-start-column="22" selection-end-line="843" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="262" column="30" selection-start-line="262" selection-start-column="30" selection-end-line="262" selection-end-column="30" />
+          <folding>
+            <element signature="e#8522#8523#0" expanded="true" />
+            <element signature="e#8567#8568#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chenshuyusc/Exercise3/IPerson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chenshuyusc/Exercise3/Teacher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/了不起的盖茨比(英文版).txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chenshuyusc/hw3/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/chenshuyusc/Exercise3/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="38" column="48" selection-start-line="38" selection-start-column="48" selection-end-line="38" selection-end-column="48" />
+        <state relative-caret-position="276">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/output/英文版统计结果.txt">
+    <entry file="file://$PROJECT_DIR$/src/com/chenshuyusc/Exercise3/Reflect.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        <state relative-caret-position="325">
+          <caret line="62" column="45" selection-start-line="62" selection-start-column="45" selection-end-line="62" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3787#3788#0" expanded="true" />
+            <element signature="e#3860#3861#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

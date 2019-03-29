@@ -1,4 +1,4 @@
-package hw1of2;
+package com.chenshuyusc.hw1;
 
 public class Test {
     public static void main(String[] args) {
